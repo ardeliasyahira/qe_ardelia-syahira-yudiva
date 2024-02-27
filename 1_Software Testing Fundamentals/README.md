@@ -1,0 +1,3 @@
+# Software Testing Fundamentals 
+
+Software testing adalah prosedur penting yang memastikan _quality_, _security_, dan _customer satisfaction_. Meliputi berbagai _levels of testing_, mulai dari _unit testing_ yang menangani komponen terkecil, _integration testing_ yang memastikan modul-modul bekerja sama dengan baik, _system testing_ yang memverifikasi sistem secara keseluruhan, hingga _acceptance testing_ yang memastikan produk akhir sesuai dengan persyaratan penerimaan. Proses ini melibatkan berbagai _function_, seperti _functional testing_ yang memeriksa fungsi sesuai kebutuhan, dan _non-functional testing_ yang memeriksa aspek kinerja.
