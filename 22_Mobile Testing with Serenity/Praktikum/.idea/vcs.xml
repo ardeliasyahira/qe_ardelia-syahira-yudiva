@@ -3,5 +3,7 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$/../.." vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Practice" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mobile-testing-appium-cucumber-js-starter" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/notes-app-mobile-testing" vcs="Git" />
   </component>
 </project>

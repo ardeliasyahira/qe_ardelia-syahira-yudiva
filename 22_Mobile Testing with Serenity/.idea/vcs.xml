@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Praktikum/mobile-testing-appium-cucumber-js-starter" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Praktikum/notes-app-mobile-testing" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/notes-app-mobile-testing" vcs="Git" />
+  </component>
+</project>
