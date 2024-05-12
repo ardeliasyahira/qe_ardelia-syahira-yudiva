@@ -1,0 +1,3 @@
+1. Organized Test Management: Saya dapat mempelajari bagaimana Test Rail memungkinkan untuk membuat test plan, test runs, dan test cases dengan mudah. Ini merupakan platform sebagai komunikasi antar QE yang dimana mereka dapat merencanakan, menjalankan, dan melacak hasil pengujian.
+2. Pelaporan yang komprehensif dapat membantu untuk menyediakan laporan apakah seluruh test case yang sudah ada di testrail sudah berhasil atau belum. 
+3. Kolaborasi tim yang efektif karena terbantu dengan adanya tools seperti TestRail
