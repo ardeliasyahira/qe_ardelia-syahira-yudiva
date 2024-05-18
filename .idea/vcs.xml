@@ -2,6 +2,9 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/15_Behavior Driven Development/soal_prioritas_1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/22_Mobile Testing with Serenity/Praktikum/mobile-testing-appium-cucumber-js-starter" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/22_Mobile Testing with Serenity/Praktikum/notes-app-mobile-testing" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/22_Mobile Testing with Serenity/notes-app-mobile-testing" vcs="Git" />
   </component>
 </project>
